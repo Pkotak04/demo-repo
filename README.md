@@ -1,2 +1,2 @@
 # demo-repo
-Demo for GItHub intro video.
+Demo for GItHub intro video!
